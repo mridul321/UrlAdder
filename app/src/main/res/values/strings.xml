@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UrlAdder</string>
+    <string name="Toast_String">BookMark Added with response 201</string>
+    <string name="Toast_String1">Bookmarks Fetched with response 200</string>
+</resources>
